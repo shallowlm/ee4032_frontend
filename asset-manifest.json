@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ee4032_frontend/static/css/main.e6c13ad2.css",
+    "main.js": "/ee4032_frontend/static/js/main.39b637a2.js",
+    "static/js/453.201a1766.chunk.js": "/ee4032_frontend/static/js/453.201a1766.chunk.js",
+    "static/media/userInfo.jpeg": "/ee4032_frontend/static/media/userInfo.31ec24ac0b5d7cd081c4.jpeg",
+    "static/media/register.jpeg": "/ee4032_frontend/static/media/register.7682d2665721693829f8.jpeg",
+    "static/media/withdraw.jpeg": "/ee4032_frontend/static/media/withdraw.288dc1823eb3a9c3168e.jpeg",
+    "static/media/login.jpeg": "/ee4032_frontend/static/media/login.3b14cba11b4f4e24d247.jpeg",
+    "static/media/recharge.jpeg": "/ee4032_frontend/static/media/recharge.3b14cba11b4f4e24d247.jpeg",
+    "static/media/changePassword.jpeg": "/ee4032_frontend/static/media/changePassword.adb3f4744dfc2e7d00dd.jpeg",
+    "static/media/game2.jpeg": "/ee4032_frontend/static/media/game2.ad93d58227cb348631df.jpeg",
+    "static/media/homepage.jpeg": "/ee4032_frontend/static/media/homepage.82b447e4d2cf1df561f2.jpeg",
+    "static/media/game1.jpeg": "/ee4032_frontend/static/media/game1.dc220a437c8f3b04ba3e.jpeg",
+    "index.html": "/ee4032_frontend/index.html",
+    "main.e6c13ad2.css.map": "/ee4032_frontend/static/css/main.e6c13ad2.css.map",
+    "main.39b637a2.js.map": "/ee4032_frontend/static/js/main.39b637a2.js.map",
+    "453.201a1766.chunk.js.map": "/ee4032_frontend/static/js/453.201a1766.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.39b637a2.js"
+  ]
+}
